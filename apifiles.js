@@ -1468,6 +1468,6 @@ document.getElementById("myform").addEventListener("submit", function(event){  /
             }
         })
     } else{
-        alert('Country not Avalible')
+        alert('Country not Available')
     }
 }); 
